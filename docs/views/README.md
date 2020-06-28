@@ -1,7 +1,7 @@
 ---
 title: 概览
 sidebar: true
-date: 2019-08-21
+date: 2020-06-28
 sidebarDepth: 0
 isShowComments: true
 ---
@@ -101,22 +101,6 @@ isShowComments: true
 	    margin-top: -10px;
 	    //padding-left: 26%;
 	}
-
-	/* #category {
-		width:100px;
-		height:100px;
-		float: right;
-		border-radius: 25%;
-		background:#ffff0059;
-		transition:width 2s;
-		-moz-transition:width 2s;
-		-webkit-transition:width 2s;
-		-o-transition:width 2s;
-	}
-
-	#category:hover {
-		width:300px;
-	} */
 
 	#category {
 		width:100px;

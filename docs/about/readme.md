@@ -26,11 +26,7 @@ isShowComments: true
 
 ### 一句话
 
-- Just do it !    （翻译：我只是个搞 IT的！哭笑脸）
-
 ### 关于我
-
-- 一个莫名其妙的，喜欢敲代码，喜欢研究技术的，表面上高冷、不苟言笑的，偶尔又嬉皮笑脸，偶尔又特立独行的，双重性格的技术爱好者！
 
 ### 兴趣方向
 
@@ -46,22 +42,12 @@ isShowComments: true
 
 ### 参与社区
 
-- 博客：[https://zpj80231.gitee.io/znote](https://zpj80231.gitee.io/znote)
-- Github：[https://github.com/zpj80231](https://github.com/zpj80231)
 
 ### 联系我
 
-- <a class="zi zi_envelopeBold" zico="黑信封"></a> Email：[zpj80231@163.com](mailto:zpj80231@163.com)
-- <a class="zi zi_tmWeixin" zico="微信"></a> 微信：记得要看完 [Guide](/views/specification/guide.html) 后 [点我](https://mp.weixin.qq.com/s?__biz=MzU4MDY1NjE1MQ==&mid=100000138&idx=1&sn=6b5e532de9685de1bbf4051eaca2de86&chksm=7d52ccf24a2545e479c7b6ed4401bc850a341e54e10cbdd54ce72b757ea7c986c37585375fa2&scene=18#wechat_redirect)
-
 ### 其他
 
-- 本仓库代码使用 [MIT](https://github.com/SigureMo/notev/blob/master/LICENSE) 协议进行开源，但是全部文档内容使用 [CC 4.0 BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) 协议进行发布
-
 ### 友链
-
-- 朋友丰富人生 —— 林肯
-- 高质量友人帐
 
 ::: cardList 3
 ```yaml

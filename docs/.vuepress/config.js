@@ -6,8 +6,8 @@ const plugins = require('./config/plugins/')
 module.exports = {
   // dest: 'gb-pages',//打包目录
   base: '/znote/',
-  title: "znote",
-  description: '荷尽已无擎雨盖，菊残犹有傲霜枝。',
+  title: "jeffywin web",
+  description: '宝剑锋从磨砺出，梅花香自苦寒来。',
   head: [
     ['link', {
       rel: 'icon',
@@ -55,13 +55,13 @@ module.exports = {
     lastUpdated: true,
     lastUpdated: '上次更新', // string | boolean
     // 作者
-    author: 'zhāngpéngjūn',
+    author: 'jeffywin',
     // 备案号
-    record: '京ICP备17067634号-1',
+    record: '',
     // 项目开始时间
-    startYear: '2019',
+    startYear: '2020',
     //git地址
-    repo: 'zpj80231/znote',
+    repo: '',
     // 如果你的文档不在仓库的根部
     docsDir: 'docs',
     // 可选，默认为 master
@@ -69,14 +69,14 @@ module.exports = {
     editLinks: true,
     editLinkText: '在 GitHub 上编辑此页！',
     //评论
-    valineConfig: {
-      appId: 'xbT4pPXCWQju5T7GXC5fUFlF-gzGzoHsz',
-      appKey: 'bofA5chNQ60p37Ih9sMffSI0',
-      placeholder: '填写邮箱可以收到回复哦!',
-      notify: true, // 邮件提醒
-      verify: true, // 验证码
-      recordIP: true
-    },
+    // valineConfig: {
+    //   appId: 'xbT4pPXCWQju5T7GXC5fUFlF-gzGzoHsz',
+    //   appKey: 'bofA5chNQ60p37Ih9sMffSI0',
+    //   placeholder: '填写邮箱可以收到回复哦!',
+    //   notify: true, // 邮件提醒
+    //   verify: true, // 验证码
+    //   recordIP: true
+    // },
   },
   plugins,
   markdown: {
